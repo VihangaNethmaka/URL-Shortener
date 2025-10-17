@@ -1,5 +1,5 @@
 <?php
-// Include the configuration and database connection
+// Include the configuration and database connection 
 require_once 'config.php';
 
 // Check if the short code is provided in the query string
@@ -35,3 +35,4 @@ if (isset($_GET['code']) && !empty($_GET['code'])) {
 header("Location: " . BASE_URL . "/index.php?error=invalid", true, 302);
 exit;
 ?>
+
