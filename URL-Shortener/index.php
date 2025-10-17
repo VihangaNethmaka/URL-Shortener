@@ -1,5 +1,5 @@
 <?php 
-// Includes config file
+// Includes config file 
 require_once 'config.php';
 
 // Checks for errors from redirect
@@ -416,3 +416,4 @@ if (isset($_GET['error']) && $_GET['error'] === 'invalid') {
     </script>
 </body>
 </html>
+
