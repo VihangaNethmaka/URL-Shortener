@@ -1,6 +1,6 @@
 <?php
 // ===============================================
-// URL SHORTENER CONFIGURATION
+// URL SHORTENER CONFIGURATION 
 // ===============================================
 
 // -----------------------------------------------
@@ -47,3 +47,4 @@ try {
 
 // $pdo variable is now available for use in other PHP files
 ?>
+
