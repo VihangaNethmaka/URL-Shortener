@@ -1,5 +1,5 @@
 <?php
-// Include the configuration and database connection
+// Include the configuration and database connection 
 require_once 'config.php';
 
 header('Content-Type: application/json');
@@ -83,3 +83,4 @@ try {
 }
 
 ?>
+
